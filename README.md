@@ -7,3 +7,6 @@ Para seguir os labs da Live, basta possuir uma conta no Google Cloud Platform.
 Para criar uma conta gratuita na GCP acesse o link abaixo:
 
 https://console.cloud.google.com/freetrial
+
+
+https://global.gotowebinar.com/join/4915552973022433808/335721798
